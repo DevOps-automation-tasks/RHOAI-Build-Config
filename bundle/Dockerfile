@@ -1,6 +1,6 @@
 FROM scratch
 #test-cichange
-##
+####
 ##
 ###
 LABEL operators.operatorframework.io.bundle.mediatype.v1=registry+v1
